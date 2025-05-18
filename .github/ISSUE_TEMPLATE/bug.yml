@@ -17,6 +17,6 @@ body:
     attributes:
       label: Crash/error Log
       description: >
-        Please provide the crash log or error log.
+        Please provide the crash log or error log. Use https://mclo.gs/ to upload and then provide URL.
     validations:
       required: true
