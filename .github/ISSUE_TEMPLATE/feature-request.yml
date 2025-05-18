@@ -1,0 +1,12 @@
+name: Feature Request
+description: I have an idea!
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: textarea
+    attributes:
+      label: Description
+      description: >
+        Please provide as much information as possible of what the feature request will be
+    validations:
+      required: true
